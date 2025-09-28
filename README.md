@@ -1,0 +1,1 @@
+[![Testes](https://github.com/xdhliti/calculadora-lab-engsoft/actions/workflows/testes_calculadora.yaml/badge.svg)](https://github.com/xdhliti/calculadora-lab-engsoft/actions/workflows/testes_calculadora.yaml)
